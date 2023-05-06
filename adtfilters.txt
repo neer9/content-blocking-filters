@@ -43,3 +43,7 @@ tiava.com#%#//scriptlet('set-cookie', 'splashPageAccepted', '1')
 xhamster18.desi#%#//scriptlet('remove-class', 'xh-thumb-disabled', 'html')
 ||pornhub.org/pix.php?s=
 ||pornhub.org/video/category_tracker?e=$important||xhcdn.com/xh-desktop/*.parental-control.js$domain=xhamster18.desi
+xhamster20.desi#%#//scriptlet('set-cookie-reload', 'parental-control', 'yes')
+pornhd.com#%#//scriptlet('set-cookie', 'splashPageAccepted', '1')
+
+
